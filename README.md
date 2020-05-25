@@ -33,7 +33,7 @@ Now using your injector (if you don't have one, check out [InspectorMustache's](
 
 Here's how i do it:
 
-First create a dummy theme as a symlink to FlatColor (so your theme doesn't flashes when changinng):
+First create a dummy theme as a symlink to FlatColor (so your theme doesn't flash when changing):
 ```
 ln -Ts ~/.themes/FlatColor ~/.themes/dummy
 ```
