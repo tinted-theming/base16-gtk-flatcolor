@@ -19,7 +19,7 @@ Now move on to `.~/.themes/FlatColor/gtk-3.0`, and open `gtk.css`.
 
 Delete all in lines in section `/* Default color scheme */`, and replace with:
 ```
-/* %%base16_template: flat-color##gtk-3 %%
+/* %%base16_template: gtk-flatcolor##gtk-3 %%
 /* %%base16_template_end%%
 */
 ```
