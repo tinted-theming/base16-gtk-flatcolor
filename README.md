@@ -36,7 +36,8 @@ First of all, create a dummy theme as a symlink to FlatColor (so your theme does
 ln -Ts ~/.themes/FlatColor ~/.themes/dummy
 ```
 
-Here's two ways to do it:
+Now here's the two ways to reload your theme:
+
 #### [Xsettingsd](https://github.com/derat/xsettingsd)
 After [installing](https://github.com/derat/xsettingsd/wiki/Installation) it, edit your `~/.xsettings` so it has the theme set:
 ```
