@@ -31,24 +31,23 @@ Now using your injector (if you don't have one, check out [InspectorMustache's](
 
 *Tip*: Most gtk apps only update when restarted, but you can use `gsettings` or `xsettingsd` to change to some theme, and back to FlatColor so all applications re-theme without restart (Thanks jasperro for the [workaround](https://github.com/deviantfero/wpgtk/issues/112))
 
-Here's two ways to do it:
-#### [Xsettingsd](https://github.com/derat/xsettingsd)
-After [installing](https://github.com/derat/xsettingsd/wiki/Installation) it, edit your `~/.xsettings` so it has the theme set:
-```
-Net/ThemeName "FlatColor"
-```
-Now just running `xsettings` should reload the theme! You can background the process, or make a systemd service to reload it more easily (check out my dotfiles if you want an example).
-
-#### Gsettings (requires gnome packages)
-
-First create a dummy theme as a symlink to FlatColor (so your theme doesn't flash when changing):
+First of all, create a dummy theme as a symlink to FlatColor (so your theme doesn't flash when changing):
 ```
 ln -Ts ~/.themes/FlatColor ~/.themes/dummy
 ```
 
-And then use this command to reload:
+Here's two ways to do it:
+#### [Xsettingsd](https://github.com/derat/xsettingsd)
+After [installing](https://github.com/derat/xsettingsd/wiki/Installation) it, edit your `~/.xsettings` so it has the theme set:
+```
+Net/ThemeName "dummy"
+```
+Now just running `xsettings` should reload the theme! You can background the process, or make a systemd service to reload it more easily (check out my dotfiles if you want an example).
+
+#### Gsettings (requires gnome packages)
+Use this command to reload:
 ```
 gsettings set org.gnome.desktop.interface gtk-theme dummy && gsettings set org.gnome.desktop.interface gtk-theme FlatColor
 ```
 
-If nothing happens, make sure `/usr/lib/gsd-xsettings` is running. You can include that in your WM's configuration so it starts automatically. You do need some gnome packages installed, though.
+If nothing happens, make sure `/usr/lib/gsd-xsettings` is running. You do need some gnome packages installed, though.
