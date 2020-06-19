@@ -29,9 +29,17 @@ Do the same as above, but with `.~/.themes/FlatColor/gtk-3.20`'s `gtk.css`.
 
 Now using your injector (if you don't have one, check out [InspectorMustache's](https://github.com/InspectorMustache/base16-builder-python), it includes steps on how to use it as well), inject to those 3 files (using the correct subtemplate) you edited (plus any other you use with Base16's templates) and voila! Now your gtk theme matches your chosen Base16 scheme.
 
-*Tip*: Most gtk apps only update when restarted, but you can use `gsettings` to change to some theme, and back to FlatColor so all applications re-theme without restart (Thanks jasperro for the [workaround](https://github.com/deviantfero/wpgtk/issues/112))
+*Tip*: Most gtk apps only update when restarted, but you can use `gsettings` or `xsettingsd` to change to some theme, and back to FlatColor so all applications re-theme without restart (Thanks jasperro for the [workaround](https://github.com/deviantfero/wpgtk/issues/112))
 
-Here's how i do it:
+Here's two ways to do it:
+#### [Xsettingsd](https://github.com/derat/xsettingsd)
+After [installing](https://github.com/derat/xsettingsd/wiki/Installation) it, edit your `~/.xsettings` so it has the theme set:
+```
+Net/ThemeName "FlatColor"
+```
+Now just running `xsettings` should reload the theme! You can background the process, or make a systemd service to reload it more easily (check out my dotfiles if you want an example).
+
+#### Gsettings (requires gnome packages)
 
 First create a dummy theme as a symlink to FlatColor (so your theme doesn't flash when changing):
 ```
