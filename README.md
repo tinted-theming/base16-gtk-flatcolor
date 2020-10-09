@@ -20,7 +20,7 @@ Delete all in lines in section `/* Default color scheme */`, and replace with:
 ```
 import url("../colors3");
 ```
-Do the same with `.~/.themes/FlatColor/gtk-3.20/gtk.css`.
+Do the same with `~/.themes/FlatColor/gtk-3.20/gtk.css`.
 
 Now using your injector (if you don't have one, check out [flavours](https://github.com/misterio77/flavours)), and configure it so the template will be built to both `~/.themes/FlatColor/colors3` and `~/.themes/FlatColors/colors2`, using the subtemplates `gtk-2` and `gtk-3`, respectively.
 
