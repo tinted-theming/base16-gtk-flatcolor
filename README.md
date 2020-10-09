@@ -7,29 +7,24 @@ First download FlatColor theme from jasperro's repo to your .themes folder:
 
 Before anything, you need to make a few changes in FlatColor so the base16 builder of your choice can inject to it. 
 
-Navigate to `~/.themes/FlatColor/gtk-2.0` and open `gtkrc` with your favorite text editor.
+Open `~/.themes/FlatColor/gtk-2.0/gtkrc` with your favorite text editor.
 
-Delete `gtk-color-scheme` and everything inside quotes following it (so keep gtk-auto-mnemonics), and replace with:
+Delete `gtk-color-scheme` and everything inside quotes following it, and replace with:
 ```
-# %%base16_template: gtk-flatcolor##gtk-2 %%
-# %%base16_template_end%%
+include "../colors2"
 ```
 
-Now move on to `.~/.themes/FlatColor/gtk-3.0`, and open `gtk.css`.
+Now open `.~/.themes/FlatColor/gtk-3.0/gtk.css`.
 
 Delete all in lines in section `/* Default color scheme */`, and replace with:
 ```
-/* %%base16_template: gtk-flatcolor##gtk-3 %%
-/* %%base16_template_end%%
-*/
+import url("../colors3");
 ```
-(The comments look weird, blame CSS, but they will work nicely after injection)
+Do the same with `.~/.themes/FlatColor/gtk-3.20/gtk.css`.
 
-Do the same as above, but with `.~/.themes/FlatColor/gtk-3.20`'s `gtk.css`.
+Now using your injector (if you don't have one, check out [flavours](https://github.com/misterio77/flavours)), and configure it so the template will be built to both `~/.themes/FlatColor/colors3` and `~/.themes/FlatColors/colors2`, using the subtemplates `gtk-2` and `gtk-3`, respectively.
 
-Now using your injector (if you don't have one, check out [InspectorMustache's](https://github.com/InspectorMustache/base16-builder-python), it includes steps on how to use it as well), inject to those 3 files (using the correct subtemplate) you edited (plus any other you use with Base16's templates) and voila! Now your gtk theme matches your chosen Base16 scheme.
-
-*Tip*: Most gtk apps only update when restarted, but you can use `gsettings` or `xsettingsd` to change to some theme, and back to FlatColor so all applications re-theme without restart (Thanks jasperro for the [workaround](https://github.com/deviantfero/wpgtk/issues/112))
+*Tip*: Most gtk apps only update when restarted, but you can use `gsettings` or `xsettingsd` to change to some theme, and back to FlatColor so all applications re-theme without restart (Thanks jasperro for the [workaround](https://github.com/deviantfero/wpgtk/issues/112)). (If you use flavours, you can set that as an hook).
 
 First of all, create a dummy theme as a symlink to FlatColor (so your theme doesn't flash when changing):
 ```
