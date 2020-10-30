@@ -3,7 +3,7 @@ This is a [Base16](https://github.com/chriskempson/base16) template for [FlatCol
 
 ## Usage
 First download FlatColor theme from jasperro's repo to your .themes folder:
-`git clone https://github.com/jasperro/FlatColor ~/.themes`
+`git clone https://github.com/jasperro/FlatColor ~/.themes/FlatColor`
 
 Before anything, you need to make a few changes in FlatColor so the base16 builder of your choice can inject to it. 
 
