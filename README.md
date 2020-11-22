@@ -18,7 +18,7 @@ Now open `.~/.themes/FlatColor/gtk-3.0/gtk.css`.
 
 Delete all in lines in section `/* Default color scheme */`, and replace with:
 ```
-import url("../colors3");
+@import url("../colors3");
 ```
 Do the same with `~/.themes/FlatColor/gtk-3.20/gtk.css`.
 
