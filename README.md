@@ -1,5 +1,5 @@
 # base16-gtk-flatcolor
-This is a [Base16](https://github.com/chriskempson/base16) template for [FlatColor](https://github.com/jasperro/FlatColor), a gtk3 theme by jasperro and deviantfero,
+This is a [Base16](https://github.com/base16-project/home) template for [FlatColor](https://github.com/jasperro/FlatColor), a gtk3 theme by jasperro and deviantfero,
 
 ## Usage
 First download FlatColor theme from jasperro's repo to your .themes folder:
