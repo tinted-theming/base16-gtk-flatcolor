@@ -1,0 +1,15 @@
+/*
+Base16 Silk Dark
+Author: Gabriel Fontes (https://github.com/Misterio77)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #0e3c46;
+@define-color fg_color #c7dbdd;
+@define-color base_color #1d494e;
+@define-color text_color #c7dbdd;
+@define-color text_color_disabled #587073;
+@define-color selected_bg_color #2a5054;
+@define-color selected_fg_color #c7dbdd;
+@define-color tooltip_bg_color #0e3c46;
+@define-color tooltip_fg_color #c7dbdd;

@@ -1,0 +1,15 @@
+/*
+Base16 Edge Light
+Author: cjayross (https://github.com/cjayross)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #fafafa;
+@define-color fg_color #5e646f;
+@define-color base_color #7c9f4b;
+@define-color text_color #5e646f;
+@define-color text_color_disabled #5e646f;
+@define-color selected_bg_color #d69822;
+@define-color selected_fg_color #5e646f;
+@define-color tooltip_bg_color #fafafa;
+@define-color tooltip_fg_color #5e646f;

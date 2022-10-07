@@ -1,0 +1,15 @@
+/*
+Base16 Gruvbox dark, pale
+Author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #262626;
+@define-color fg_color #dab997;
+@define-color base_color #3a3a3a;
+@define-color text_color #dab997;
+@define-color text_color_disabled #8a8a8a;
+@define-color selected_bg_color #4e4e4e;
+@define-color selected_fg_color #dab997;
+@define-color tooltip_bg_color #262626;
+@define-color tooltip_fg_color #dab997;

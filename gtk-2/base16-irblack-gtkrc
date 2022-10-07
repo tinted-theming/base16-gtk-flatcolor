@@ -1,0 +1,15 @@
+## Base16 IR Black
+# Author: Timothée Poisot (http://timotheepoisot.fr)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#000000
+color0:#000000
+text_color:#b5b3aa
+selected_bg_color:#484844
+selected_fg_color:#b5b3aa
+tooltip_bg_color:#000000
+tooltip_fg_color:#b5b3aa
+titlebar_bg_color:#000000
+titlebar_fg_color:#b5b3aa
+menu_bg_color:#000000
+menu_fg_color:#b5b3aa
+link_color:#484844"

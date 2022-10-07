@@ -1,0 +1,15 @@
+/*
+Base16 Eighties
+Author: Chris Kempson (http://chriskempson.com)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #2d2d2d;
+@define-color fg_color #d3d0c8;
+@define-color base_color #393939;
+@define-color text_color #d3d0c8;
+@define-color text_color_disabled #747369;
+@define-color selected_bg_color #515151;
+@define-color selected_fg_color #d3d0c8;
+@define-color tooltip_bg_color #2d2d2d;
+@define-color tooltip_fg_color #d3d0c8;

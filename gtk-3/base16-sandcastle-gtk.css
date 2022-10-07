@@ -1,0 +1,15 @@
+/*
+Base16 Sandcastle
+Author: George Essig (https://github.com/gessig)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #282c34;
+@define-color fg_color #a89984;
+@define-color base_color #2c323b;
+@define-color text_color #a89984;
+@define-color text_color_disabled #665c54;
+@define-color selected_bg_color #3e4451;
+@define-color selected_fg_color #a89984;
+@define-color tooltip_bg_color #282c34;
+@define-color tooltip_fg_color #a89984;

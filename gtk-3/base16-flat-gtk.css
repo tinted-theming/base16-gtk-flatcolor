@@ -1,0 +1,15 @@
+/*
+Base16 Flat
+Author: Chris Kempson (http://chriskempson.com)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #2c3e50;
+@define-color fg_color #e0e0e0;
+@define-color base_color #34495e;
+@define-color text_color #e0e0e0;
+@define-color text_color_disabled #95a5a6;
+@define-color selected_bg_color #7f8c8d;
+@define-color selected_fg_color #e0e0e0;
+@define-color tooltip_bg_color #2c3e50;
+@define-color tooltip_fg_color #e0e0e0;

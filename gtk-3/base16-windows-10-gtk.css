@@ -1,0 +1,15 @@
+/*
+Base16 Windows 10
+Author: Fergus Collins (https://github.com/C-Fergus)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #0c0c0c;
+@define-color fg_color #cccccc;
+@define-color base_color #2f2f2f;
+@define-color text_color #cccccc;
+@define-color text_color_disabled #767676;
+@define-color selected_bg_color #535353;
+@define-color selected_fg_color #cccccc;
+@define-color tooltip_bg_color #0c0c0c;
+@define-color tooltip_fg_color #cccccc;

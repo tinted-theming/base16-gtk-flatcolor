@@ -1,0 +1,15 @@
+## Base16 Circus
+# Author: Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#191919
+color0:#191919
+text_color:#a7a7a7
+selected_bg_color:#303030
+selected_fg_color:#a7a7a7
+tooltip_bg_color:#191919
+tooltip_fg_color:#a7a7a7
+titlebar_bg_color:#191919
+titlebar_fg_color:#a7a7a7
+menu_bg_color:#191919
+menu_fg_color:#a7a7a7
+link_color:#303030"

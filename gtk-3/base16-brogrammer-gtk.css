@@ -1,0 +1,15 @@
+/*
+Base16 Brogrammer
+Author: Vik Ramanujam (http://github.com/piggyslasher)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #1f1f1f;
+@define-color fg_color #4e5ab7;
+@define-color base_color #f81118;
+@define-color text_color #4e5ab7;
+@define-color text_color_disabled #ecba0f;
+@define-color selected_bg_color #2dc55e;
+@define-color selected_fg_color #4e5ab7;
+@define-color tooltip_bg_color #1f1f1f;
+@define-color tooltip_fg_color #4e5ab7;

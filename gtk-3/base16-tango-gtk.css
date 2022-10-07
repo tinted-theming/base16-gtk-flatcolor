@@ -1,0 +1,15 @@
+/*
+Base16 Tango
+Author: @Schnouki, based on the Tango Desktop Project
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #2e3436;
+@define-color fg_color #d3d7cf;
+@define-color base_color #8ae234;
+@define-color text_color #d3d7cf;
+@define-color text_color_disabled #555753;
+@define-color selected_bg_color #fce94f;
+@define-color selected_fg_color #d3d7cf;
+@define-color tooltip_bg_color #2e3436;
+@define-color tooltip_fg_color #d3d7cf;

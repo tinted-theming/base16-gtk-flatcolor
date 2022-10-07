@@ -1,0 +1,15 @@
+/*
+Base16 Grayscale Light
+Author: Alexandre Gavioli (https://github.com/Alexx2/)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #f7f7f7;
+@define-color fg_color #464646;
+@define-color base_color #e3e3e3;
+@define-color text_color #464646;
+@define-color text_color_disabled #ababab;
+@define-color selected_bg_color #b9b9b9;
+@define-color selected_fg_color #464646;
+@define-color tooltip_bg_color #f7f7f7;
+@define-color tooltip_fg_color #464646;

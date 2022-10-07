@@ -1,0 +1,15 @@
+/*
+Base16 Heetch Light
+Author: Geoffrey Teale (tealeg@gmail.com)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #feffff;
+@define-color fg_color #5a496e;
+@define-color base_color #392551;
+@define-color text_color #5a496e;
+@define-color text_color_disabled #9c92a8;
+@define-color selected_bg_color #7b6d8b;
+@define-color selected_fg_color #5a496e;
+@define-color tooltip_bg_color #feffff;
+@define-color tooltip_fg_color #5a496e;

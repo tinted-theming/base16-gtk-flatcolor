@@ -1,0 +1,15 @@
+/*
+Base16 Blueish
+Author: Ben Mayoras
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #182430;
+@define-color fg_color #c8e1f8;
+@define-color base_color #243c54;
+@define-color text_color #c8e1f8;
+@define-color text_color_disabled #616d78;
+@define-color selected_bg_color #46290a;
+@define-color selected_fg_color #c8e1f8;
+@define-color tooltip_bg_color #182430;
+@define-color tooltip_fg_color #c8e1f8;

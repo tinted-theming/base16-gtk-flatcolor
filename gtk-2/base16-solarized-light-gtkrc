@@ -1,0 +1,15 @@
+## Base16 Solarized Light
+# Author: Ethan Schoonover (modified by aramisgithub)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#fdf6e3
+color0:#fdf6e3
+text_color:#586e75
+selected_bg_color:#93a1a1
+selected_fg_color:#586e75
+tooltip_bg_color:#fdf6e3
+tooltip_fg_color:#586e75
+titlebar_bg_color:#fdf6e3
+titlebar_fg_color:#586e75
+menu_bg_color:#fdf6e3
+menu_fg_color:#586e75
+link_color:#93a1a1"

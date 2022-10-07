@@ -1,0 +1,15 @@
+## Base16 Da One Sea
+# Author: NNB (https://github.com/NNBnh)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#22273d
+color0:#22273d
+text_color:#ffffff
+selected_bg_color:#525866
+selected_fg_color:#ffffff
+tooltip_bg_color:#22273d
+tooltip_fg_color:#ffffff
+titlebar_bg_color:#22273d
+titlebar_fg_color:#ffffff
+menu_bg_color:#22273d
+menu_fg_color:#ffffff
+link_color:#525866"

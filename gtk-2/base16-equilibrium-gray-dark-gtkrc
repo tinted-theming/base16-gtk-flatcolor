@@ -1,0 +1,15 @@
+## Base16 Equilibrium Gray Dark
+# Author: Carlo Abelli
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#111111
+color0:#111111
+text_color:#ababab
+selected_bg_color:#262626
+selected_fg_color:#ababab
+tooltip_bg_color:#111111
+tooltip_fg_color:#ababab
+titlebar_bg_color:#111111
+titlebar_fg_color:#ababab
+menu_bg_color:#111111
+menu_fg_color:#ababab
+link_color:#262626"

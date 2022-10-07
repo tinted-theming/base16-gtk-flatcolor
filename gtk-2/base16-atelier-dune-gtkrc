@@ -1,0 +1,15 @@
+## Base16 Atelier Dune
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#20201d
+color0:#20201d
+text_color:#a6a28c
+selected_bg_color:#6e6b5e
+selected_fg_color:#a6a28c
+tooltip_bg_color:#20201d
+tooltip_fg_color:#a6a28c
+titlebar_bg_color:#20201d
+titlebar_fg_color:#a6a28c
+menu_bg_color:#20201d
+menu_fg_color:#a6a28c
+link_color:#6e6b5e"

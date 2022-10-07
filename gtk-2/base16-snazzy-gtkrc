@@ -1,0 +1,15 @@
+## Base16 Snazzy
+# Author: Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#282a36
+color0:#282a36
+text_color:#e2e4e5
+selected_bg_color:#43454f
+selected_fg_color:#e2e4e5
+tooltip_bg_color:#282a36
+tooltip_fg_color:#e2e4e5
+titlebar_bg_color:#282a36
+titlebar_fg_color:#e2e4e5
+menu_bg_color:#282a36
+menu_fg_color:#e2e4e5
+link_color:#43454f"

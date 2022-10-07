@@ -1,0 +1,15 @@
+## Base16 Atelier Plateau
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#1b1818
+color0:#1b1818
+text_color:#8a8585
+selected_bg_color:#585050
+selected_fg_color:#8a8585
+tooltip_bg_color:#1b1818
+tooltip_fg_color:#8a8585
+titlebar_bg_color:#1b1818
+titlebar_fg_color:#8a8585
+menu_bg_color:#1b1818
+menu_fg_color:#8a8585
+link_color:#585050"

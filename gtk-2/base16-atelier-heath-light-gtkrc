@@ -1,0 +1,15 @@
+## Base16 Atelier Heath Light
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#f7f3f7
+color0:#f7f3f7
+text_color:#695d69
+selected_bg_color:#ab9bab
+selected_fg_color:#695d69
+tooltip_bg_color:#f7f3f7
+tooltip_fg_color:#695d69
+titlebar_bg_color:#f7f3f7
+titlebar_fg_color:#695d69
+menu_bg_color:#f7f3f7
+menu_fg_color:#695d69
+link_color:#ab9bab"

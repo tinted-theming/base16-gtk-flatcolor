@@ -1,0 +1,15 @@
+/*
+Base16 Atelier Dune
+Author: Bram de Haan (http://atelierbramdehaan.nl)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #20201d;
+@define-color fg_color #a6a28c;
+@define-color base_color #292824;
+@define-color text_color #a6a28c;
+@define-color text_color_disabled #7d7a68;
+@define-color selected_bg_color #6e6b5e;
+@define-color selected_fg_color #a6a28c;
+@define-color tooltip_bg_color #20201d;
+@define-color tooltip_fg_color #a6a28c;

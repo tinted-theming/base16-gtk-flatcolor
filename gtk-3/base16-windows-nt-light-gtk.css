@@ -1,0 +1,15 @@
+/*
+Base16 Windows NT Light
+Author: Fergus Collins (https://github.com/C-Fergus)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #ffffff;
+@define-color fg_color #808080;
+@define-color base_color #eaeaea;
+@define-color text_color #808080;
+@define-color text_color_disabled #c0c0c0;
+@define-color selected_bg_color #d5d5d5;
+@define-color selected_fg_color #808080;
+@define-color tooltip_bg_color #ffffff;
+@define-color tooltip_fg_color #808080;

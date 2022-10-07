@@ -1,0 +1,15 @@
+## Base16 Atlas
+# Author: Alex Lende (https://ajlende.com)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#002635
+color0:#002635
+text_color:#a1a19a
+selected_bg_color:#517f8d
+selected_fg_color:#a1a19a
+tooltip_bg_color:#002635
+tooltip_fg_color:#a1a19a
+titlebar_bg_color:#002635
+titlebar_fg_color:#a1a19a
+menu_bg_color:#002635
+menu_fg_color:#a1a19a
+link_color:#517f8d"

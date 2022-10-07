@@ -1,0 +1,15 @@
+## Base16 Synth Midnight Terminal Dark
+# Author: Michaël Ball (http://github.com/michael-ball/)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#050608
+color0:#050608
+text_color:#c1c3c4
+selected_bg_color:#28292a
+selected_fg_color:#c1c3c4
+tooltip_bg_color:#050608
+tooltip_fg_color:#c1c3c4
+titlebar_bg_color:#050608
+titlebar_fg_color:#c1c3c4
+menu_bg_color:#050608
+menu_fg_color:#c1c3c4
+link_color:#28292a"

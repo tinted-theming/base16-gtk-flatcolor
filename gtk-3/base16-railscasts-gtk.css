@@ -1,0 +1,15 @@
+/*
+Base16 Railscasts
+Author: Ryan Bates (http://railscasts.com)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #2b2b2b;
+@define-color fg_color #e6e1dc;
+@define-color base_color #272935;
+@define-color text_color #e6e1dc;
+@define-color text_color_disabled #5a647e;
+@define-color selected_bg_color #3a4055;
+@define-color selected_fg_color #e6e1dc;
+@define-color tooltip_bg_color #2b2b2b;
+@define-color tooltip_fg_color #e6e1dc;

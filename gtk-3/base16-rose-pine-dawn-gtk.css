@@ -1,0 +1,15 @@
+/*
+Base16 Rosé Pine Dawn
+Author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #faf4ed;
+@define-color fg_color #575279;
+@define-color base_color #fffaf3;
+@define-color text_color #575279;
+@define-color text_color_disabled #9893a5;
+@define-color selected_bg_color #f2e9de;
+@define-color selected_fg_color #575279;
+@define-color tooltip_bg_color #faf4ed;
+@define-color tooltip_fg_color #575279;

@@ -1,0 +1,15 @@
+/*
+Base16 Synth Midnight Terminal Light
+Author: Michaël Ball (http://github.com/michael-ball/)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #dddfe0;
+@define-color fg_color #28292a;
+@define-color base_color #cfd1d2;
+@define-color text_color #28292a;
+@define-color text_color_disabled #a3a5a6;
+@define-color selected_bg_color #c1c3c4;
+@define-color selected_fg_color #28292a;
+@define-color tooltip_bg_color #dddfe0;
+@define-color tooltip_fg_color #28292a;

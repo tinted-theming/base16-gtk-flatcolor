@@ -1,0 +1,15 @@
+## Base16 Dracula
+# Author: Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#282936
+color0:#282936
+text_color:#e9e9f4
+selected_bg_color:#4d4f68
+selected_fg_color:#e9e9f4
+tooltip_bg_color:#282936
+tooltip_fg_color:#e9e9f4
+titlebar_bg_color:#282936
+titlebar_fg_color:#e9e9f4
+menu_bg_color:#282936
+menu_fg_color:#e9e9f4
+link_color:#4d4f68"

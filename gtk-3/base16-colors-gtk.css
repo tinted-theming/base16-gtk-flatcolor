@@ -1,0 +1,15 @@
+/*
+Base16 Colors
+Author: mrmrs (http://clrs.cc)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #111111;
+@define-color fg_color #bbbbbb;
+@define-color base_color #333333;
+@define-color text_color #bbbbbb;
+@define-color text_color_disabled #777777;
+@define-color selected_bg_color #555555;
+@define-color selected_fg_color #bbbbbb;
+@define-color tooltip_bg_color #111111;
+@define-color tooltip_fg_color #bbbbbb;

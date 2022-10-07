@@ -1,0 +1,15 @@
+## Base16 Google Dark
+# Author: Seth Wright (http://sethawright.com)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#1d1f21
+color0:#1d1f21
+text_color:#c5c8c6
+selected_bg_color:#373b41
+selected_fg_color:#c5c8c6
+tooltip_bg_color:#1d1f21
+tooltip_fg_color:#c5c8c6
+titlebar_bg_color:#1d1f21
+titlebar_fg_color:#c5c8c6
+menu_bg_color:#1d1f21
+menu_fg_color:#c5c8c6
+link_color:#373b41"

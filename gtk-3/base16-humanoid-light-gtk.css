@@ -1,0 +1,15 @@
+/*
+Base16 Humanoid light
+Author: Thomas (tasmo) Friese
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #f8f8f2;
+@define-color fg_color #232629;
+@define-color base_color #efefe9;
+@define-color text_color #232629;
+@define-color text_color_disabled #c0c0bd;
+@define-color selected_bg_color #deded8;
+@define-color selected_fg_color #232629;
+@define-color tooltip_bg_color #f8f8f2;
+@define-color tooltip_fg_color #232629;

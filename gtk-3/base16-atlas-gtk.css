@@ -1,0 +1,15 @@
+/*
+Base16 Atlas
+Author: Alex Lende (https://ajlende.com)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #002635;
+@define-color fg_color #a1a19a;
+@define-color base_color #00384d;
+@define-color text_color #a1a19a;
+@define-color text_color_disabled #6c8b91;
+@define-color selected_bg_color #517f8d;
+@define-color selected_fg_color #a1a19a;
+@define-color tooltip_bg_color #002635;
+@define-color tooltip_fg_color #a1a19a;

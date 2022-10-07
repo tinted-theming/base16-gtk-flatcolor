@@ -1,0 +1,15 @@
+## Base16 Embers
+# Author: Jannik Siebert (https://github.com/janniks)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#16130f
+color0:#16130f
+text_color:#a39a90
+selected_bg_color:#433b32
+selected_fg_color:#a39a90
+tooltip_bg_color:#16130f
+tooltip_fg_color:#a39a90
+titlebar_bg_color:#16130f
+titlebar_fg_color:#a39a90
+menu_bg_color:#16130f
+menu_fg_color:#a39a90
+link_color:#433b32"

@@ -1,0 +1,15 @@
+/*
+Base16 Icy Dark
+Author: icyphox (https://icyphox.ga)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #021012;
+@define-color fg_color #095b67;
+@define-color base_color #031619;
+@define-color text_color #095b67;
+@define-color text_color_disabled #052e34;
+@define-color selected_bg_color #041f23;
+@define-color selected_fg_color #095b67;
+@define-color tooltip_bg_color #021012;
+@define-color tooltip_fg_color #095b67;

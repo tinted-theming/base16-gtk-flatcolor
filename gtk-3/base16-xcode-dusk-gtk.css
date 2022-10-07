@@ -1,0 +1,15 @@
+/*
+Base16 XCode Dusk
+Author: Elsa Gonsiorowski (https://github.com/gonsie)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #282b35;
+@define-color fg_color #939599;
+@define-color base_color #3d4048;
+@define-color text_color #939599;
+@define-color text_color_disabled #686a71;
+@define-color selected_bg_color #53555d;
+@define-color selected_fg_color #939599;
+@define-color tooltip_bg_color #282b35;
+@define-color tooltip_fg_color #939599;

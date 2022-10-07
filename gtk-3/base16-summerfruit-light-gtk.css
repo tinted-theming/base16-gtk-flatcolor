@@ -1,0 +1,15 @@
+/*
+Base16 Summerfruit Light
+Author: Christopher Corley (http://christop.club/)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #ffffff;
+@define-color fg_color #101010;
+@define-color base_color #e0e0e0;
+@define-color text_color #101010;
+@define-color text_color_disabled #b0b0b0;
+@define-color selected_bg_color #d0d0d0;
+@define-color selected_fg_color #101010;
+@define-color tooltip_bg_color #ffffff;
+@define-color tooltip_fg_color #101010;

@@ -1,0 +1,15 @@
+/*
+Base16 Ayu Mirage
+Author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #171b24;
+@define-color fg_color #cccac2;
+@define-color base_color #1f2430;
+@define-color text_color #cccac2;
+@define-color text_color_disabled #707a8c;
+@define-color selected_bg_color #242936;
+@define-color selected_fg_color #cccac2;
+@define-color tooltip_bg_color #171b24;
+@define-color tooltip_fg_color #cccac2;

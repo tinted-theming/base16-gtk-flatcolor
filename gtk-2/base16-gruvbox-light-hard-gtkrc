@@ -1,0 +1,15 @@
+## Base16 Gruvbox light, hard
+# Author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#f9f5d7
+color0:#f9f5d7
+text_color:#504945
+selected_bg_color:#d5c4a1
+selected_fg_color:#504945
+tooltip_bg_color:#f9f5d7
+tooltip_fg_color:#504945
+titlebar_bg_color:#f9f5d7
+titlebar_fg_color:#504945
+menu_bg_color:#f9f5d7
+menu_fg_color:#504945
+link_color:#d5c4a1"

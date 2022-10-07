@@ -1,0 +1,15 @@
+## Base16 Tokyo Night Light
+# Author: Michaël Ball
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#d5d6db
+color0:#d5d6db
+text_color:#343b59
+selected_bg_color:#dfe0e5
+selected_fg_color:#343b59
+tooltip_bg_color:#d5d6db
+tooltip_fg_color:#343b59
+titlebar_bg_color:#d5d6db
+titlebar_fg_color:#343b59
+menu_bg_color:#d5d6db
+menu_fg_color:#343b59
+link_color:#dfe0e5"

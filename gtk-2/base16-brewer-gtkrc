@@ -1,0 +1,15 @@
+## Base16 Brewer
+# Author: Timothée Poisot (http://github.com/tpoisot)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#0c0d0e
+color0:#0c0d0e
+text_color:#b7b8b9
+selected_bg_color:#515253
+selected_fg_color:#b7b8b9
+tooltip_bg_color:#0c0d0e
+tooltip_fg_color:#b7b8b9
+titlebar_bg_color:#0c0d0e
+titlebar_fg_color:#b7b8b9
+menu_bg_color:#0c0d0e
+menu_fg_color:#b7b8b9
+link_color:#515253"

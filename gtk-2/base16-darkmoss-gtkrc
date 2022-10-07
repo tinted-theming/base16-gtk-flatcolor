@@ -1,0 +1,15 @@
+## Base16 darkmoss
+# Author: Gabriel Avanzi (https://github.com/avanzzzi)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#171e1f
+color0:#171e1f
+text_color:#c7c7a5
+selected_bg_color:#373c3d
+selected_fg_color:#c7c7a5
+tooltip_bg_color:#171e1f
+tooltip_fg_color:#c7c7a5
+titlebar_bg_color:#171e1f
+titlebar_fg_color:#c7c7a5
+menu_bg_color:#171e1f
+menu_fg_color:#c7c7a5
+link_color:#373c3d"

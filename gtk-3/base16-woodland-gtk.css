@@ -1,0 +1,15 @@
+/*
+Base16 Woodland
+Author: Jay Cornwall (https://jcornwall.com)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #231e18;
+@define-color fg_color #cabcb1;
+@define-color base_color #302b25;
+@define-color text_color #cabcb1;
+@define-color text_color_disabled #9d8b70;
+@define-color selected_bg_color #48413a;
+@define-color selected_fg_color #cabcb1;
+@define-color tooltip_bg_color #231e18;
+@define-color tooltip_fg_color #cabcb1;

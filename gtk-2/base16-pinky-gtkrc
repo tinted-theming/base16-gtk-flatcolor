@@ -1,0 +1,15 @@
+## Base16 pinky
+# Author: Benjamin (https://github.com/b3nj5m1n)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#171517
+color0:#171517
+text_color:#f5f5f5
+selected_bg_color:#1d1b1d
+selected_fg_color:#f5f5f5
+tooltip_bg_color:#171517
+tooltip_fg_color:#f5f5f5
+titlebar_bg_color:#171517
+titlebar_fg_color:#f5f5f5
+menu_bg_color:#171517
+menu_fg_color:#f5f5f5
+link_color:#1d1b1d"

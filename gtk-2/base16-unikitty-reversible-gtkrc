@@ -1,0 +1,15 @@
+## Base16 Unikitty Reversible
+# Author: Josh W Lewis (@joshwlewis)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#2e2a31
+color0:#2e2a31
+text_color:#c3c2c4
+selected_bg_color:#69666b
+selected_fg_color:#c3c2c4
+tooltip_bg_color:#2e2a31
+tooltip_fg_color:#c3c2c4
+titlebar_bg_color:#2e2a31
+titlebar_fg_color:#c3c2c4
+menu_bg_color:#2e2a31
+menu_fg_color:#c3c2c4
+link_color:#69666b"

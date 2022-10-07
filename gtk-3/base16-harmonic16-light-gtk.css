@@ -1,0 +1,15 @@
+/*
+Base16 Harmonic16 Light
+Author: Jannik Siebert (https://github.com/janniks)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #f7f9fb;
+@define-color fg_color #405c79;
+@define-color base_color #e5ebf1;
+@define-color text_color #405c79;
+@define-color text_color_disabled #aabcce;
+@define-color selected_bg_color #cbd6e2;
+@define-color selected_fg_color #405c79;
+@define-color tooltip_bg_color #f7f9fb;
+@define-color tooltip_fg_color #405c79;

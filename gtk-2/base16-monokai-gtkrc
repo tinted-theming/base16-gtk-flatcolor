@@ -1,0 +1,15 @@
+## Base16 Monokai
+# Author: Wimer Hazenberg (http://www.monokai.nl)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#272822
+color0:#272822
+text_color:#f8f8f2
+selected_bg_color:#49483e
+selected_fg_color:#f8f8f2
+tooltip_bg_color:#272822
+tooltip_fg_color:#f8f8f2
+titlebar_bg_color:#272822
+titlebar_fg_color:#f8f8f2
+menu_bg_color:#272822
+menu_fg_color:#f8f8f2
+link_color:#49483e"

@@ -1,0 +1,15 @@
+## Base16 Rebecca
+# Author: Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#292a44
+color0:#292a44
+text_color:#f1eff8
+selected_bg_color:#383a62
+selected_fg_color:#f1eff8
+tooltip_bg_color:#292a44
+tooltip_fg_color:#f1eff8
+titlebar_bg_color:#292a44
+titlebar_fg_color:#f1eff8
+menu_bg_color:#292a44
+menu_fg_color:#f1eff8
+link_color:#383a62"

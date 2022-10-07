@@ -1,0 +1,15 @@
+/*
+Base16 Google Light
+Author: Seth Wright (http://sethawright.com)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #ffffff;
+@define-color fg_color #373b41;
+@define-color base_color #e0e0e0;
+@define-color text_color #373b41;
+@define-color text_color_disabled #b4b7b4;
+@define-color selected_bg_color #c5c8c6;
+@define-color selected_fg_color #373b41;
+@define-color tooltip_bg_color #ffffff;
+@define-color tooltip_fg_color #373b41;

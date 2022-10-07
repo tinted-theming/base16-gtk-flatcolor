@@ -1,0 +1,15 @@
+/*
+Base16 Atelier Forest Light
+Author: Bram de Haan (http://atelierbramdehaan.nl)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #f1efee;
+@define-color fg_color #68615e;
+@define-color base_color #e6e2e0;
+@define-color text_color #68615e;
+@define-color text_color_disabled #9c9491;
+@define-color selected_bg_color #a8a19f;
+@define-color selected_fg_color #68615e;
+@define-color tooltip_bg_color #f1efee;
+@define-color tooltip_fg_color #68615e;

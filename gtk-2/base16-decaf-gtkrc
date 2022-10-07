@@ -1,0 +1,15 @@
+## Base16 Decaf
+# Author: Alex Mirrington (https://github.com/alexmirrington)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#2d2d2d
+color0:#2d2d2d
+text_color:#cccccc
+selected_bg_color:#515151
+selected_fg_color:#cccccc
+tooltip_bg_color:#2d2d2d
+tooltip_fg_color:#cccccc
+titlebar_bg_color:#2d2d2d
+titlebar_fg_color:#cccccc
+menu_bg_color:#2d2d2d
+menu_fg_color:#cccccc
+link_color:#515151"

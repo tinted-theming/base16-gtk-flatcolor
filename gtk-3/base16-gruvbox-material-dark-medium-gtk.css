@@ -1,0 +1,15 @@
+/*
+Base16 Gruvbox Material Dark, Medium
+Author: Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #292828;
+@define-color fg_color #ddc7a1;
+@define-color base_color #32302f;
+@define-color text_color #ddc7a1;
+@define-color text_color_disabled #665c54;
+@define-color selected_bg_color #504945;
+@define-color selected_fg_color #ddc7a1;
+@define-color tooltip_bg_color #292828;
+@define-color tooltip_fg_color #ddc7a1;

@@ -1,0 +1,15 @@
+/*
+Base16 Brush Trees Dark
+Author: Abraham White &lt;abelincoln.white@gmail.com&gt;
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #485867;
+@define-color fg_color #b0c5c8;
+@define-color base_color #5a6d7a;
+@define-color text_color #b0c5c8;
+@define-color text_color_disabled #8299a1;
+@define-color selected_bg_color #6d828e;
+@define-color selected_fg_color #b0c5c8;
+@define-color tooltip_bg_color #485867;
+@define-color tooltip_fg_color #b0c5c8;

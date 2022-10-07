@@ -1,0 +1,15 @@
+## Base16 Hopscotch
+# Author: Jan T. Sott
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#322931
+color0:#322931
+text_color:#b9b5b8
+selected_bg_color:#5c545b
+selected_fg_color:#b9b5b8
+tooltip_bg_color:#322931
+tooltip_fg_color:#b9b5b8
+titlebar_bg_color:#322931
+titlebar_fg_color:#b9b5b8
+menu_bg_color:#322931
+menu_fg_color:#b9b5b8
+link_color:#5c545b"

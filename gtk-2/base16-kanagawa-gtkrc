@@ -1,0 +1,15 @@
+## Base16 Kanagawa
+# Author: Tommaso Laurenzi (https://github.com/rebelot)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#1f1f28
+color0:#1f1f28
+text_color:#dcd7ba
+selected_bg_color:#223249
+selected_fg_color:#dcd7ba
+tooltip_bg_color:#1f1f28
+tooltip_fg_color:#dcd7ba
+titlebar_bg_color:#1f1f28
+titlebar_fg_color:#dcd7ba
+menu_bg_color:#1f1f28
+menu_fg_color:#dcd7ba
+link_color:#223249"

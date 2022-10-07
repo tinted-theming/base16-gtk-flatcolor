@@ -1,0 +1,15 @@
+/*
+Base16 darkmoss
+Author: Gabriel Avanzi (https://github.com/avanzzzi)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #171e1f;
+@define-color fg_color #c7c7a5;
+@define-color base_color #252c2d;
+@define-color text_color #c7c7a5;
+@define-color text_color_disabled #555e5f;
+@define-color selected_bg_color #373c3d;
+@define-color selected_fg_color #c7c7a5;
+@define-color tooltip_bg_color #171e1f;
+@define-color tooltip_fg_color #c7c7a5;

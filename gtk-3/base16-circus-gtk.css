@@ -1,0 +1,15 @@
+/*
+Base16 Circus
+Author: Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #191919;
+@define-color fg_color #a7a7a7;
+@define-color base_color #202020;
+@define-color text_color #a7a7a7;
+@define-color text_color_disabled #5f5a60;
+@define-color selected_bg_color #303030;
+@define-color selected_fg_color #a7a7a7;
+@define-color tooltip_bg_color #191919;
+@define-color tooltip_fg_color #a7a7a7;

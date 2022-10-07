@@ -1,0 +1,15 @@
+## Base16 London Tube
+# Author: Jan T. Sott
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#231f20
+color0:#231f20
+text_color:#d9d8d8
+selected_bg_color:#5a5758
+selected_fg_color:#d9d8d8
+tooltip_bg_color:#231f20
+tooltip_fg_color:#d9d8d8
+titlebar_bg_color:#231f20
+titlebar_fg_color:#d9d8d8
+menu_bg_color:#231f20
+menu_fg_color:#d9d8d8
+link_color:#5a5758"

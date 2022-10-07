@@ -1,0 +1,15 @@
+/*
+Base16 Tokyo City Terminal Light
+Author: Michaël Ball
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #fbfbfd;
+@define-color fg_color #28323a;
+@define-color base_color #f6f6f8;
+@define-color text_color #28323a;
+@define-color text_color_disabled #b7c5d3;
+@define-color selected_bg_color #d8e2ec;
+@define-color selected_fg_color #28323a;
+@define-color tooltip_bg_color #fbfbfd;
+@define-color tooltip_fg_color #28323a;

@@ -1,0 +1,15 @@
+/*
+Base16 Equilibrium Gray Light
+Author: Carlo Abelli
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #f1f1f1;
+@define-color fg_color #474747;
+@define-color base_color #e2e2e2;
+@define-color text_color #474747;
+@define-color text_color_disabled #777777;
+@define-color selected_bg_color #d4d4d4;
+@define-color selected_fg_color #474747;
+@define-color tooltip_bg_color #f1f1f1;
+@define-color tooltip_fg_color #474747;

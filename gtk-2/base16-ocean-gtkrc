@@ -1,0 +1,15 @@
+## Base16 Ocean
+# Author: Chris Kempson (http://chriskempson.com)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#2b303b
+color0:#2b303b
+text_color:#c0c5ce
+selected_bg_color:#4f5b66
+selected_fg_color:#c0c5ce
+tooltip_bg_color:#2b303b
+tooltip_fg_color:#c0c5ce
+titlebar_bg_color:#2b303b
+titlebar_fg_color:#c0c5ce
+menu_bg_color:#2b303b
+menu_fg_color:#c0c5ce
+link_color:#4f5b66"

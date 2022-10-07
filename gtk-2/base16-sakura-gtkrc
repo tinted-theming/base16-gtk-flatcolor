@@ -1,0 +1,15 @@
+## Base16 Sakura
+# Author: Misterio77 (http://github.com/Misterio77)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#feedf3
+color0:#feedf3
+text_color:#564448
+selected_bg_color:#e0ccd1
+selected_fg_color:#564448
+tooltip_bg_color:#feedf3
+tooltip_fg_color:#564448
+titlebar_bg_color:#feedf3
+titlebar_fg_color:#564448
+menu_bg_color:#feedf3
+menu_fg_color:#564448
+link_color:#e0ccd1"

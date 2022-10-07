@@ -1,0 +1,15 @@
+## Base16 Green Screen
+# Author: Chris Kempson (http://chriskempson.com)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#001100
+color0:#001100
+text_color:#00bb00
+selected_bg_color:#005500
+selected_fg_color:#00bb00
+tooltip_bg_color:#001100
+tooltip_fg_color:#00bb00
+titlebar_bg_color:#001100
+titlebar_fg_color:#00bb00
+menu_bg_color:#001100
+menu_fg_color:#00bb00
+link_color:#005500"

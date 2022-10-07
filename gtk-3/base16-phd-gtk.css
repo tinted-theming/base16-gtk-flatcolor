@@ -1,0 +1,15 @@
+/*
+Base16 PhD
+Author: Hennig Hasemann (http://leetless.de/vim.html)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #061229;
+@define-color fg_color #b8bbc2;
+@define-color base_color #2a3448;
+@define-color text_color #b8bbc2;
+@define-color text_color_disabled #717885;
+@define-color selected_bg_color #4d5666;
+@define-color selected_fg_color #b8bbc2;
+@define-color tooltip_bg_color #061229;
+@define-color tooltip_fg_color #b8bbc2;

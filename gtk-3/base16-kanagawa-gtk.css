@@ -1,0 +1,15 @@
+/*
+Base16 Kanagawa
+Author: Tommaso Laurenzi (https://github.com/rebelot)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #1f1f28;
+@define-color fg_color #dcd7ba;
+@define-color base_color #16161d;
+@define-color text_color #dcd7ba;
+@define-color text_color_disabled #54546d;
+@define-color selected_bg_color #223249;
+@define-color selected_fg_color #dcd7ba;
+@define-color tooltip_bg_color #1f1f28;
+@define-color tooltip_fg_color #dcd7ba;

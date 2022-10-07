@@ -1,0 +1,15 @@
+/*
+Base16 tender
+Author: Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #282828;
+@define-color fg_color #eeeeee;
+@define-color base_color #383838;
+@define-color text_color #eeeeee;
+@define-color text_color_disabled #4c4c4c;
+@define-color selected_bg_color #484848;
+@define-color selected_fg_color #eeeeee;
+@define-color tooltip_bg_color #282828;
+@define-color tooltip_fg_color #eeeeee;

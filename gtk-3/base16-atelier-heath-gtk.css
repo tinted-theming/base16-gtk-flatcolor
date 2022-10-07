@@ -1,0 +1,15 @@
+/*
+Base16 Atelier Heath
+Author: Bram de Haan (http://atelierbramdehaan.nl)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #1b181b;
+@define-color fg_color #ab9bab;
+@define-color base_color #292329;
+@define-color text_color #ab9bab;
+@define-color text_color_disabled #776977;
+@define-color selected_bg_color #695d69;
+@define-color selected_fg_color #ab9bab;
+@define-color tooltip_bg_color #1b181b;
+@define-color tooltip_fg_color #ab9bab;

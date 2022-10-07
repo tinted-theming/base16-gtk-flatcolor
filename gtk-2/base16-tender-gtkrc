@@ -1,0 +1,15 @@
+## Base16 tender
+# Author: Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#282828
+color0:#282828
+text_color:#eeeeee
+selected_bg_color:#484848
+selected_fg_color:#eeeeee
+tooltip_bg_color:#282828
+tooltip_fg_color:#eeeeee
+titlebar_bg_color:#282828
+titlebar_fg_color:#eeeeee
+menu_bg_color:#282828
+menu_fg_color:#eeeeee
+link_color:#484848"

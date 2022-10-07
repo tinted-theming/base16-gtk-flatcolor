@@ -1,0 +1,15 @@
+/*
+Base16 Unikitty Light
+Author: Josh W Lewis (@joshwlewis)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #ffffff;
+@define-color fg_color #6c696e;
+@define-color base_color #e1e1e2;
+@define-color text_color #6c696e;
+@define-color text_color_disabled #a7a5a8;
+@define-color selected_bg_color #c4c3c5;
+@define-color selected_fg_color #6c696e;
+@define-color tooltip_bg_color #ffffff;
+@define-color tooltip_fg_color #6c696e;

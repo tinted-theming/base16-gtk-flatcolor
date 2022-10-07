@@ -1,0 +1,15 @@
+/*
+Base16 Black Metal (Burzum)
+Author: metalelf0 (https://github.com/metalelf0)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #000000;
+@define-color fg_color #c1c1c1;
+@define-color base_color #121212;
+@define-color text_color #c1c1c1;
+@define-color text_color_disabled #333333;
+@define-color selected_bg_color #222222;
+@define-color selected_fg_color #c1c1c1;
+@define-color tooltip_bg_color #000000;
+@define-color tooltip_fg_color #c1c1c1;

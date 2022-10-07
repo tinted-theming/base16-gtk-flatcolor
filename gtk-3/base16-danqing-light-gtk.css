@@ -1,0 +1,15 @@
+/*
+Base16 DanQing Light
+Author: Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #fcfefd;
+@define-color fg_color #5a605d;
+@define-color base_color #ecf6f2;
+@define-color text_color #5a605d;
+@define-color text_color_disabled #cad8d2;
+@define-color selected_bg_color #e0f0ef;
+@define-color selected_fg_color #5a605d;
+@define-color tooltip_bg_color #fcfefd;
+@define-color tooltip_fg_color #5a605d;

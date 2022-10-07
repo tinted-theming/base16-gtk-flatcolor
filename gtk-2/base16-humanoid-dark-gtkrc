@@ -1,0 +1,15 @@
+## Base16 Humanoid dark
+# Author: Thomas (tasmo) Friese
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#232629
+color0:#232629
+text_color:#f8f8f2
+selected_bg_color:#484e54
+selected_fg_color:#f8f8f2
+tooltip_bg_color:#232629
+tooltip_fg_color:#f8f8f2
+titlebar_bg_color:#232629
+titlebar_fg_color:#f8f8f2
+menu_bg_color:#232629
+menu_fg_color:#f8f8f2
+link_color:#484e54"
