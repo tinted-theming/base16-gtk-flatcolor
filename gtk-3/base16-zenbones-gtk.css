@@ -1,0 +1,15 @@
+/*
+Base16 Zenbones
+Author: mcchrish
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #191919;
+@define-color fg_color #b279a7;
+@define-color base_color #de6e7c;
+@define-color text_color #b279a7;
+@define-color text_color_disabled #b77e64;
+@define-color selected_bg_color #819b69;
+@define-color selected_fg_color #b279a7;
+@define-color tooltip_bg_color #191919;
+@define-color tooltip_fg_color #b279a7;
