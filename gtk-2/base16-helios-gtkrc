@@ -1,5 +1,6 @@
 ## Base16 Helios
-# Author: Alex Meyer (https://github.com/reyemxela)
+# Scheme author: Alex Meyer (https://github.com/reyemxela)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 # In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
 gtk-color-scheme = "bg_color:#1d2021
 color0:#1d2021

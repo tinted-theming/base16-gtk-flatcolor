@@ -1,5 +1,6 @@
 ## Base16 Still Alive
-# Author: Derrick McKee (derrick.mckee@gmail.com)
+# Scheme author: Derrick McKee (derrick.mckee@gmail.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 # In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
 gtk-color-scheme = "bg_color:#f0f0f0
 color0:#f0f0f0

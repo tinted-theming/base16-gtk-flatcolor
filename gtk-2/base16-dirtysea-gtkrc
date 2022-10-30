@@ -1,5 +1,6 @@
 ## Base16 dirtysea
-# Author: Kahlil (Kal) Hodgson
+# Scheme author: Kahlil (Kal) Hodgson
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 # In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
 gtk-color-scheme = "bg_color:#e0e0e0
 color0:#e0e0e0

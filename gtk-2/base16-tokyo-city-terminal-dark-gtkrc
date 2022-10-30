@@ -1,5 +1,6 @@
 ## Base16 Tokyo City Terminal Dark
-# Author: Michaël Ball
+# Scheme author: Michaël Ball
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 # In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
 gtk-color-scheme = "bg_color:#171d23
 color0:#171d23

@@ -1,5 +1,6 @@
 ## Base16 Catppuccin
-# Author: Pocco81 (https://github.com/pocco81)
+# Scheme author: Pocco81 (https://github.com/pocco81)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 # In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
 gtk-color-scheme = "bg_color:#1e1e28
 color0:#1e1e28

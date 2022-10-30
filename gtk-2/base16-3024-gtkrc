@@ -1,5 +1,6 @@
 ## Base16 3024
-# Author: Jan T. Sott (http://github.com/idleberg)
+# Scheme author: Jan T. Sott (http://github.com/idleberg)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 # In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
 gtk-color-scheme = "bg_color:#090300
 color0:#090300

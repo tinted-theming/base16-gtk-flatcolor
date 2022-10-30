@@ -1,5 +1,6 @@
 ## Base16 Classic Light
-# Author: Jason Heeris (http://heeris.id.au)
+# Scheme author: Jason Heeris (http://heeris.id.au)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 # In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
 gtk-color-scheme = "bg_color:#f5f5f5
 color0:#f5f5f5

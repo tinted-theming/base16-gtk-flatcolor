@@ -1,5 +1,6 @@
 ## Base16 Brush Trees Dark
-# Author: Abraham White &lt;abelincoln.white@gmail.com&gt;
+# Scheme author: Abraham White &lt;abelincoln.white@gmail.com&gt;
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 # In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
 gtk-color-scheme = "bg_color:#485867
 color0:#485867
