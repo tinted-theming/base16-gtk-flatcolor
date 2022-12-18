@@ -1,0 +1,16 @@
+/*
+Base16 selenized-black
+Scheme author: Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+Template author: Tinted Theming (https://github.com/tinted-theming)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #181818;
+@define-color fg_color #b9b9b9;
+@define-color base_color #252525;
+@define-color text_color #b9b9b9;
+@define-color text_color_disabled #777777;
+@define-color selected_bg_color #3b3b3b;
+@define-color selected_fg_color #b9b9b9;
+@define-color tooltip_bg_color #181818;
+@define-color tooltip_fg_color #b9b9b9;
