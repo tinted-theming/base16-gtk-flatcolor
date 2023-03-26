@@ -1,0 +1,16 @@
+## Base16 Catppuccin Latte
+# Scheme author: https://github.com/catppuccin/catppuccin
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#eff1f5
+color0:#eff1f5
+text_color:#4c4f69
+selected_bg_color:#ccd0da
+selected_fg_color:#4c4f69
+tooltip_bg_color:#eff1f5
+tooltip_fg_color:#4c4f69
+titlebar_bg_color:#eff1f5
+titlebar_fg_color:#4c4f69
+menu_bg_color:#eff1f5
+menu_fg_color:#4c4f69
+link_color:#ccd0da"

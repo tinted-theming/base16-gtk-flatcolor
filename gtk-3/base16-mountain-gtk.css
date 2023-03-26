@@ -1,16 +1,16 @@
 /*
 Base16 Mountain
-Scheme author: gnsfujiwara (https://github.com/gnsfujiwara) based on Mountain Theme (https://github.com/mountain-theme/Mountain)
+Scheme author: gnsfujiwara (https://github.com/gnsfujiwara)
 Template author: Tinted Theming (https://github.com/tinted-theming)
 In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
 */
 
 @define-color bg_color #0f0f0f;
-@define-color fg_color #f0f0f0;
+@define-color fg_color #cacaca;
 @define-color base_color #191919;
-@define-color text_color #f0f0f0;
+@define-color text_color #cacaca;
 @define-color text_color_disabled #4c4c4c;
 @define-color selected_bg_color #262626;
-@define-color selected_fg_color #f0f0f0;
+@define-color selected_fg_color #cacaca;
 @define-color tooltip_bg_color #0f0f0f;
-@define-color tooltip_fg_color #f0f0f0;
+@define-color tooltip_fg_color #cacaca;
