@@ -1,0 +1,16 @@
+## Base16 Everforest Dark Hard
+# Scheme author: Oskar Liew (https://github.com/OskarLiew)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#272e33
+color0:#272e33
+text_color:#d3c6aa
+selected_bg_color:#414b50
+selected_fg_color:#d3c6aa
+tooltip_bg_color:#272e33
+tooltip_fg_color:#d3c6aa
+titlebar_bg_color:#272e33
+titlebar_fg_color:#d3c6aa
+menu_bg_color:#272e33
+menu_fg_color:#d3c6aa
+link_color:#414b50"
