@@ -1,0 +1,16 @@
+/*
+Base16 Jabuti
+Scheme author: https://github.com/notusknot
+Template author: Tinted Theming (https://github.com/tinted-theming)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #292a37;
+@define-color fg_color #c0cbe3;
+@define-color base_color #343545;
+@define-color text_color #c0cbe3;
+@define-color text_color_disabled #45475d;
+@define-color selected_bg_color #3c3e51;
+@define-color selected_fg_color #c0cbe3;
+@define-color tooltip_bg_color #292a37;
+@define-color tooltip_fg_color #c0cbe3;

@@ -1,0 +1,16 @@
+/*
+Base16 Ashes
+Scheme author: Jannik Siebert (https://github.com/janniks)
+Template author: Tinted Theming (https://github.com/tinted-theming)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #1c2023;
+@define-color fg_color #c7ccd1;
+@define-color base_color #393f45;
+@define-color text_color #c7ccd1;
+@define-color text_color_disabled #747c84;
+@define-color selected_bg_color #565e65;
+@define-color selected_fg_color #c7ccd1;
+@define-color tooltip_bg_color #1c2023;
+@define-color tooltip_fg_color #c7ccd1;

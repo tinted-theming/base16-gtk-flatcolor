@@ -1,0 +1,16 @@
+## Base16 tarot
+# Scheme author: ed (https://codeberg.org/ed)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#0e091d
+color0:#0e091d
+text_color:#aa556f
+selected_bg_color:#4b2054
+selected_fg_color:#aa556f
+tooltip_bg_color:#0e091d
+tooltip_fg_color:#aa556f
+titlebar_bg_color:#0e091d
+titlebar_fg_color:#aa556f
+menu_bg_color:#0e091d
+menu_fg_color:#aa556f
+link_color:#4b2054"

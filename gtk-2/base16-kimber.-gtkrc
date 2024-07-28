@@ -1,0 +1,16 @@
+## Base16 Kimber
+# Scheme author: Mishka Nguyen (https://github.com/akhsiM)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#222222
+color0:#222222
+text_color:#dedee7
+selected_bg_color:#555d55
+selected_fg_color:#dedee7
+tooltip_bg_color:#222222
+tooltip_fg_color:#dedee7
+titlebar_bg_color:#222222
+titlebar_fg_color:#dedee7
+menu_bg_color:#222222
+menu_fg_color:#dedee7
+link_color:#555d55"

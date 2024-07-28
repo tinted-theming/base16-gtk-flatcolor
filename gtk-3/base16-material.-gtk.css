@@ -1,0 +1,16 @@
+/*
+Base16 Material
+Scheme author: Nate Peterson
+Template author: Tinted Theming (https://github.com/tinted-theming)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #263238;
+@define-color fg_color #eeffff;
+@define-color base_color #2e3c43;
+@define-color text_color #eeffff;
+@define-color text_color_disabled #546e7a;
+@define-color selected_bg_color #314549;
+@define-color selected_fg_color #eeffff;
+@define-color tooltip_bg_color #263238;
+@define-color tooltip_fg_color #eeffff;

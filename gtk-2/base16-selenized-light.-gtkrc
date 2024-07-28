@@ -1,0 +1,16 @@
+## Base16 selenized-light
+# Scheme author: Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#fbf3db
+color0:#fbf3db
+text_color:#53676d
+selected_bg_color:#d5cdb6
+selected_fg_color:#53676d
+tooltip_bg_color:#fbf3db
+tooltip_fg_color:#53676d
+titlebar_bg_color:#fbf3db
+titlebar_fg_color:#53676d
+menu_bg_color:#fbf3db
+menu_fg_color:#53676d
+link_color:#d5cdb6"

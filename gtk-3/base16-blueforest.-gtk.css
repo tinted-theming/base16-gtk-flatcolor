@@ -1,0 +1,16 @@
+/*
+Base16 Blue Forest
+Scheme author: alonsodomin (https://github.com/alonsodomin)
+Template author: Tinted Theming (https://github.com/tinted-theming)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #141f2e;
+@define-color fg_color #ffcc33;
+@define-color base_color #1e5c1e;
+@define-color text_color #ffcc33;
+@define-color text_color_disabled #a0ffa0;
+@define-color selected_bg_color #273e5c;
+@define-color selected_fg_color #ffcc33;
+@define-color tooltip_bg_color #141f2e;
+@define-color tooltip_fg_color #ffcc33;

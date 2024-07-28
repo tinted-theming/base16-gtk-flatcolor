@@ -1,0 +1,16 @@
+/*
+Base16 Gotham
+Scheme author: Andrea Leopardi (arranged by Brett Jones)
+Template author: Tinted Theming (https://github.com/tinted-theming)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #0c1014;
+@define-color fg_color #599cab;
+@define-color base_color #11151c;
+@define-color text_color #599cab;
+@define-color text_color_disabled #0a3749;
+@define-color selected_bg_color #091f2e;
+@define-color selected_fg_color #599cab;
+@define-color tooltip_bg_color #0c1014;
+@define-color tooltip_fg_color #599cab;

@@ -1,0 +1,16 @@
+## Base16 Nova
+# Scheme author: George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#3c4c55
+color0:#3c4c55
+text_color:#c5d4dd
+selected_bg_color:#6a7d89
+selected_fg_color:#c5d4dd
+tooltip_bg_color:#3c4c55
+tooltip_fg_color:#c5d4dd
+titlebar_bg_color:#3c4c55
+titlebar_fg_color:#c5d4dd
+menu_bg_color:#3c4c55
+menu_fg_color:#c5d4dd
+link_color:#6a7d89"

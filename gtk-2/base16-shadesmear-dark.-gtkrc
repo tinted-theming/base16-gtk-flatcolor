@@ -1,0 +1,16 @@
+## Base16 ShadeSmear Dark
+# Scheme author: Kyle Giammarco (http://kyle.giammar.co)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#232323
+color0:#232323
+text_color:#dbdbdb
+selected_bg_color:#4e4e4e
+selected_fg_color:#dbdbdb
+tooltip_bg_color:#232323
+tooltip_fg_color:#dbdbdb
+titlebar_bg_color:#232323
+titlebar_fg_color:#dbdbdb
+menu_bg_color:#232323
+menu_fg_color:#dbdbdb
+link_color:#4e4e4e"

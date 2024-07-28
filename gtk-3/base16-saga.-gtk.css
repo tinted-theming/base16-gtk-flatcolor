@@ -1,0 +1,16 @@
+/*
+Base16 SAGA
+Scheme author: https://github.com/SAGAtheme/SAGA
+Template author: Tinted Theming (https://github.com/tinted-theming)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #05080a;
+@define-color fg_color #dce2f7;
+@define-color base_color #0a1014;
+@define-color text_color #dce2f7;
+@define-color text_color_disabled #141f27;
+@define-color selected_bg_color #0f181e;
+@define-color selected_fg_color #dce2f7;
+@define-color tooltip_bg_color #05080a;
+@define-color tooltip_fg_color #dce2f7;

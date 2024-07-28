@@ -1,0 +1,16 @@
+## Base16 Ayu Mirage
+# Scheme author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#171b24
+color0:#171b24
+text_color:#cccac2
+selected_bg_color:#242936
+selected_fg_color:#cccac2
+tooltip_bg_color:#171b24
+tooltip_fg_color:#cccac2
+titlebar_bg_color:#171b24
+titlebar_fg_color:#cccac2
+menu_bg_color:#171b24
+menu_fg_color:#cccac2
+link_color:#242936"

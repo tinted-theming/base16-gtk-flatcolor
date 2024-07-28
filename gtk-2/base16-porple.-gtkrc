@@ -1,0 +1,16 @@
+## Base16 Porple
+# Scheme author: Niek den Breeje (https://github.com/AuditeMarlow)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#292c36
+color0:#292c36
+text_color:#d8d8d8
+selected_bg_color:#474160
+selected_fg_color:#d8d8d8
+tooltip_bg_color:#292c36
+tooltip_fg_color:#d8d8d8
+titlebar_bg_color:#292c36
+titlebar_fg_color:#d8d8d8
+menu_bg_color:#292c36
+menu_fg_color:#d8d8d8
+link_color:#474160"

@@ -1,0 +1,16 @@
+## Base16 Measured Dark
+# Scheme author: Measured (https://measured.co)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#00211f
+color0:#00211f
+text_color:#dcdcdc
+selected_bg_color:#005453
+selected_fg_color:#dcdcdc
+tooltip_bg_color:#00211f
+tooltip_fg_color:#dcdcdc
+titlebar_bg_color:#00211f
+titlebar_fg_color:#dcdcdc
+menu_bg_color:#00211f
+menu_fg_color:#dcdcdc
+link_color:#005453"

@@ -1,0 +1,16 @@
+## Base16 Tokyodark Terminal
+# Scheme author: Tiagovla (https://github.com/tiagovla/)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#11121d
+color0:#11121d
+text_color:#a0a8cd
+selected_bg_color:#212234
+selected_fg_color:#a0a8cd
+tooltip_bg_color:#11121d
+tooltip_fg_color:#a0a8cd
+titlebar_bg_color:#11121d
+titlebar_fg_color:#a0a8cd
+menu_bg_color:#11121d
+menu_fg_color:#a0a8cd
+link_color:#212234"

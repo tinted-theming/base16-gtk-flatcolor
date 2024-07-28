@@ -1,0 +1,16 @@
+## Base16 Primer Dark
+# Scheme author: Jimmy Lin
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#010409
+color0:#010409
+text_color:#b1bac4
+selected_bg_color:#30363d
+selected_fg_color:#b1bac4
+tooltip_bg_color:#010409
+tooltip_fg_color:#b1bac4
+titlebar_bg_color:#010409
+titlebar_fg_color:#b1bac4
+menu_bg_color:#010409
+menu_fg_color:#b1bac4
+link_color:#30363d"

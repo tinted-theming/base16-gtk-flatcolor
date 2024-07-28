@@ -1,0 +1,16 @@
+## Base16 Horizon Terminal Dark
+# Scheme author: Michaël Ball (http://github.com/michael-ball/)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#1c1e26
+color0:#1c1e26
+text_color:#cbced0
+selected_bg_color:#2e303e
+selected_fg_color:#cbced0
+tooltip_bg_color:#1c1e26
+tooltip_fg_color:#cbced0
+titlebar_bg_color:#1c1e26
+titlebar_fg_color:#cbced0
+menu_bg_color:#1c1e26
+menu_fg_color:#cbced0
+link_color:#2e303e"
