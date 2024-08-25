@@ -1,0 +1,16 @@
+## Base16 Terracotta Dark
+# Scheme author: Alexander Rossell Hayes (https://github.com/rossellhayes)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#241d1a
+color0:#241d1a
+text_color:#b8a59d
+selected_bg_color:#473933
+selected_fg_color:#b8a59d
+tooltip_bg_color:#241d1a
+tooltip_fg_color:#b8a59d
+titlebar_bg_color:#241d1a
+titlebar_fg_color:#b8a59d
+menu_bg_color:#241d1a
+menu_fg_color:#b8a59d
+link_color:#473933"
