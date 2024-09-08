@@ -1,0 +1,16 @@
+/*
+Base16 Deep Oceanic Next
+Scheme author: spearkkk (https://github.com/spearkkk/deep-oceanic-next)
+Template author: Tinted Theming (https://github.com/tinted-theming)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #003b46;
+@define-color fg_color #dce3e8;
+@define-color base_color #004f5e;
+@define-color text_color #dce3e8;
+@define-color text_color_disabled #007a8a;
+@define-color selected_bg_color #006374;
+@define-color selected_fg_color #dce3e8;
+@define-color tooltip_bg_color #003b46;
+@define-color tooltip_fg_color #dce3e8;
