@@ -1,0 +1,16 @@
+## Base16 0x96f
+# Scheme author: Filip Janevski (https://0x96f.dev/theme)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#262427
+color0:#262427
+text_color:#fcfcfc
+selected_bg_color:#514f52
+selected_fg_color:#fcfcfc
+tooltip_bg_color:#262427
+tooltip_fg_color:#fcfcfc
+titlebar_bg_color:#262427
+titlebar_fg_color:#fcfcfc
+menu_bg_color:#262427
+menu_fg_color:#fcfcfc
+link_color:#514f52"
