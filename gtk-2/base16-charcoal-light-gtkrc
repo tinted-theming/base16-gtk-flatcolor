@@ -1,0 +1,16 @@
+## Base16 Charcoal Light
+# Scheme author: Mubin Muhammad (https://github.com/mubin6th)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#d6b891
+color0:#d6b891
+text_color:#35291d
+selected_bg_color:#a28662
+selected_fg_color:#35291d
+tooltip_bg_color:#d6b891
+tooltip_fg_color:#35291d
+titlebar_bg_color:#d6b891
+titlebar_fg_color:#35291d
+menu_bg_color:#d6b891
+menu_fg_color:#35291d
+link_color:#a28662"
