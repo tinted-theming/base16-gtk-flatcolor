@@ -1,0 +1,16 @@
+## Base16 Hardhacker
+# Scheme author: fe2-Nyxar, based on the https://github.com/hardhackerlabs
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#211e2a
+color0:#211e2a
+text_color:#e4dee9
+selected_bg_color:#3f3951
+selected_fg_color:#e4dee9
+tooltip_bg_color:#211e2a
+tooltip_fg_color:#e4dee9
+titlebar_bg_color:#211e2a
+titlebar_fg_color:#e4dee9
+menu_bg_color:#211e2a
+menu_fg_color:#e4dee9
+link_color:#3f3951"

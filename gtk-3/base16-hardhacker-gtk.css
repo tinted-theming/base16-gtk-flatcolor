@@ -1,0 +1,16 @@
+/*
+Base16 Hardhacker
+Scheme author: fe2-Nyxar, based on the https://github.com/hardhackerlabs
+Template author: Tinted Theming (https://github.com/tinted-theming)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #211e2a;
+@define-color fg_color #e4dee9;
+@define-color base_color #2c2737;
+@define-color text_color #e4dee9;
+@define-color text_color_disabled #6e6780;
+@define-color selected_bg_color #3f3951;
+@define-color selected_fg_color #e4dee9;
+@define-color tooltip_bg_color #211e2a;
+@define-color tooltip_fg_color #e4dee9;
