@@ -5,12 +5,12 @@ Template author: Tinted Theming (https://github.com/tinted-theming)
 In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
 */
 
-@define-color bg_color #120f09;
-@define-color fg_color #c0a179;
-@define-color base_color #1e1812;
-@define-color text_color #c0a179;
-@define-color text_color_disabled #66553f;
-@define-color selected_bg_color #35291d;
-@define-color selected_fg_color #c0a179;
-@define-color tooltip_bg_color #120f09;
-@define-color tooltip_fg_color #c0a179;
+@define-color bg_color #0f0b05;
+@define-color fg_color #c3a983;
+@define-color base_color #231b0e;
+@define-color text_color #c3a983;
+@define-color text_color_disabled #57462c;
+@define-color selected_bg_color #2a2012;
+@define-color selected_fg_color #c3a983;
+@define-color tooltip_bg_color #0f0b05;
+@define-color tooltip_fg_color #c3a983;
