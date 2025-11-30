@@ -1,16 +1,16 @@
 /*
 Base16 Oxocarbon Light
-Scheme author: shaunsingh/IBM
+Scheme author: shaunsingh/IBM, Tinted Theming (https://github.com/tinted-theming)
 Template author: Tinted Theming (https://github.com/tinted-theming)
 In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
 */
 
 @define-color bg_color #f2f4f8;
-@define-color fg_color #393939;
+@define-color fg_color #525f70;
 @define-color base_color #dde1e6;
-@define-color text_color #393939;
-@define-color text_color_disabled #161616;
-@define-color selected_bg_color #525252;
-@define-color selected_fg_color #393939;
+@define-color text_color #525f70;
+@define-color text_color_disabled #a1acba;
+@define-color selected_bg_color #bec6cf;
+@define-color selected_fg_color #525f70;
 @define-color tooltip_bg_color #f2f4f8;
-@define-color tooltip_fg_color #393939;
+@define-color tooltip_fg_color #525f70;

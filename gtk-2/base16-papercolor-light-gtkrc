@@ -1,16 +1,16 @@
 ## Base16 PaperColor Light
-# Scheme author: Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+# Scheme author: Jon Leopard (http://github.com/jonleopard), Tinted Theming (https://github.com/tinted-theming), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 # In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
 gtk-color-scheme = "bg_color:#eeeeee
 color0:#eeeeee
-text_color:#444444
-selected_bg_color:#008700
-selected_fg_color:#444444
+text_color:#5e5e5e
+selected_bg_color:#9e9e9e
+selected_fg_color:#5e5e5e
 tooltip_bg_color:#eeeeee
-tooltip_fg_color:#444444
+tooltip_fg_color:#5e5e5e
 titlebar_bg_color:#eeeeee
-titlebar_fg_color:#444444
+titlebar_fg_color:#5e5e5e
 menu_bg_color:#eeeeee
-menu_fg_color:#444444
-link_color:#008700"
+menu_fg_color:#5e5e5e
+link_color:#9e9e9e"
