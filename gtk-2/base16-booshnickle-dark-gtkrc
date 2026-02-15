@@ -1,0 +1,16 @@
+## Base16 booshnickle dark
+# Scheme author: Honey D (@honeydbeatz)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#191914
+color0:#191914
+text_color:#bdbd97
+selected_bg_color:#5b5b49
+selected_fg_color:#bdbd97
+tooltip_bg_color:#191914
+tooltip_fg_color:#bdbd97
+titlebar_bg_color:#191914
+titlebar_fg_color:#bdbd97
+menu_bg_color:#191914
+menu_fg_color:#bdbd97
+link_color:#5b5b49"
