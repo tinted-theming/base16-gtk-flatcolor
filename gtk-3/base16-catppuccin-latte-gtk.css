@@ -7,10 +7,10 @@ In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color sch
 
 @define-color bg_color #eff1f5;
 @define-color fg_color #4c4f69;
-@define-color base_color #ccd0da;
+@define-color base_color #e6e9ef;
 @define-color text_color #4c4f69;
-@define-color text_color_disabled #9ca0b0;
-@define-color selected_bg_color #bcc0cc;
+@define-color text_color_disabled #bcc0cc;
+@define-color selected_bg_color #ccd0da;
 @define-color selected_fg_color #4c4f69;
 @define-color tooltip_bg_color #eff1f5;
 @define-color tooltip_fg_color #4c4f69;
