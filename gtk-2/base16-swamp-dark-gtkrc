@@ -1,0 +1,16 @@
+## Base16 Swamp Dark
+# Scheme author: Masroof Maindak (https://github.com/masroof-maindak)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#242015
+color0:#242015
+text_color:#d2c3a4
+selected_bg_color:#4d3f32
+selected_fg_color:#d2c3a4
+tooltip_bg_color:#242015
+tooltip_fg_color:#d2c3a4
+titlebar_bg_color:#242015
+titlebar_fg_color:#d2c3a4
+menu_bg_color:#242015
+menu_fg_color:#d2c3a4
+link_color:#4d3f32"

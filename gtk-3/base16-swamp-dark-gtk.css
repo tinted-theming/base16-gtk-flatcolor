@@ -1,0 +1,16 @@
+/*
+Base16 Swamp Dark
+Scheme author: Masroof Maindak (https://github.com/masroof-maindak)
+Template author: Tinted Theming (https://github.com/tinted-theming)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #242015;
+@define-color fg_color #d2c3a4;
+@define-color base_color #3a3124;
+@define-color text_color #d2c3a4;
+@define-color text_color_disabled #5f4e41;
+@define-color selected_bg_color #4d3f32;
+@define-color selected_fg_color #d2c3a4;
+@define-color tooltip_bg_color #242015;
+@define-color tooltip_fg_color #d2c3a4;
