@@ -1,0 +1,16 @@
+## Base16 Kissa Macchiato
+# Scheme author: rwendell (https://github.com/rwendell/kissa)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#1f1c16
+color0:#1f1c16
+text_color:#faf0e6
+selected_bg_color:#47443f
+selected_fg_color:#faf0e6
+tooltip_bg_color:#1f1c16
+tooltip_fg_color:#faf0e6
+titlebar_bg_color:#1f1c16
+titlebar_fg_color:#faf0e6
+menu_bg_color:#1f1c16
+menu_fg_color:#faf0e6
+link_color:#47443f"
