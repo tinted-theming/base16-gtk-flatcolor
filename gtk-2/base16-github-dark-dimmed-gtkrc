@@ -1,0 +1,16 @@
+## Base16 Github Dark Dimmed
+# Scheme author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#22272e
+color0:#22272e
+text_color:#adbac7
+selected_bg_color:#545d68
+selected_fg_color:#adbac7
+tooltip_bg_color:#22272e
+tooltip_fg_color:#adbac7
+titlebar_bg_color:#22272e
+titlebar_fg_color:#adbac7
+menu_bg_color:#22272e
+menu_fg_color:#adbac7
+link_color:#545d68"

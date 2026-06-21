@@ -1,0 +1,16 @@
+/*
+Base16 Github Dark High Contrast
+Scheme author: Tinted Theming (https://github.com/tinted-theming)
+Template author: Tinted Theming (https://github.com/tinted-theming)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #0a0c10;
+@define-color fg_color #f0f3f6;
+@define-color base_color #272b33;
+@define-color text_color #f0f3f6;
+@define-color text_color_disabled #9ea7b3;
+@define-color selected_bg_color #7a828e;
+@define-color selected_fg_color #f0f3f6;
+@define-color tooltip_bg_color #0a0c10;
+@define-color tooltip_fg_color #f0f3f6;

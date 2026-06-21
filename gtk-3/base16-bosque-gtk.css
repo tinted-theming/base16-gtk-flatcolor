@@ -1,0 +1,16 @@
+/*
+Base16 Bosque
+Scheme author: Teshre
+Template author: Tinted Theming (https://github.com/tinted-theming)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #0e1410;
+@define-color fg_color #cfe5d2;
+@define-color base_color #16211a;
+@define-color text_color #cfe5d2;
+@define-color text_color_disabled #5c6e5e;
+@define-color selected_bg_color #1e3023;
+@define-color selected_fg_color #cfe5d2;
+@define-color tooltip_bg_color #0e1410;
+@define-color tooltip_fg_color #cfe5d2;

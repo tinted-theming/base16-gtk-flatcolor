@@ -1,0 +1,16 @@
+## Base16 Noche
+# Scheme author: Teshre
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#0c0e16
+color0:#0c0e16
+text_color:#cbd4ec
+selected_bg_color:#232a40
+selected_fg_color:#cbd4ec
+tooltip_bg_color:#0c0e16
+tooltip_fg_color:#cbd4ec
+titlebar_bg_color:#0c0e16
+titlebar_fg_color:#cbd4ec
+menu_bg_color:#0c0e16
+menu_fg_color:#cbd4ec
+link_color:#232a40"
