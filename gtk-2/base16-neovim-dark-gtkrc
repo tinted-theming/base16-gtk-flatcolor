@@ -1,0 +1,16 @@
+## Base16 Neovim Dark
+# Scheme author: https://github.com/neovim/neovim/blob/master/src/nvim/highlight_group.c
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#14161b
+color0:#14161b
+text_color:#e0e2ea
+selected_bg_color:#4f5258
+selected_fg_color:#e0e2ea
+tooltip_bg_color:#14161b
+tooltip_fg_color:#e0e2ea
+titlebar_bg_color:#14161b
+titlebar_fg_color:#e0e2ea
+menu_bg_color:#14161b
+menu_fg_color:#e0e2ea
+link_color:#4f5258"
