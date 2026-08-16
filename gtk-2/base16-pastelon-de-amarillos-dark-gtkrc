@@ -1,0 +1,16 @@
+## Base16 Pastelón de Amarillos Dark
+# Scheme author: Richard Martinez (https://sonofmartinus.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#180d18
+color0:#180d18
+text_color:#ffe0a3
+selected_bg_color:#432031
+selected_fg_color:#ffe0a3
+tooltip_bg_color:#180d18
+tooltip_fg_color:#ffe0a3
+titlebar_bg_color:#180d18
+titlebar_fg_color:#ffe0a3
+menu_bg_color:#180d18
+menu_fg_color:#ffe0a3
+link_color:#432031"
