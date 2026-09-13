@@ -1,0 +1,16 @@
+## Base16 Corduroy Dark
+# Scheme author: taysatte (https://github.com/taysatte)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#141016
+color0:#141016
+text_color:#ddd8df
+selected_bg_color:#221a26
+selected_fg_color:#ddd8df
+tooltip_bg_color:#141016
+tooltip_fg_color:#ddd8df
+titlebar_bg_color:#141016
+titlebar_fg_color:#ddd8df
+menu_bg_color:#141016
+menu_fg_color:#ddd8df
+link_color:#221a26"
