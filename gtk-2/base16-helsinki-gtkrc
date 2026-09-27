@@ -1,0 +1,16 @@
+## Base16 Helsinki
+# Scheme author: xscriptor (https://github.com/xscriptor)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#f8fafe
+color0:#f8fafe
+text_color:#544d40
+selected_bg_color:#e4e5e7
+selected_fg_color:#544d40
+tooltip_bg_color:#f8fafe
+tooltip_fg_color:#544d40
+titlebar_bg_color:#f8fafe
+titlebar_fg_color:#544d40
+menu_bg_color:#f8fafe
+menu_fg_color:#544d40
+link_color:#e4e5e7"
