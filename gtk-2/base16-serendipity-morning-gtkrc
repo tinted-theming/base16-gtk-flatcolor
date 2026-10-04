@@ -1,0 +1,16 @@
+## Base16 Serendipity Morning
+# Scheme author: Micheal Andreuzza (https://michaelandreuzza.com/)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#f6f7fb
+color0:#f6f7fb
+text_color:#3f4363
+selected_bg_color:#eaebee
+selected_fg_color:#3f4363
+tooltip_bg_color:#f6f7fb
+tooltip_fg_color:#3f4363
+titlebar_bg_color:#f6f7fb
+titlebar_fg_color:#3f4363
+menu_bg_color:#f6f7fb
+menu_fg_color:#3f4363
+link_color:#eaebee"

@@ -6,11 +6,11 @@ In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color sch
 */
 
 @define-color bg_color #ffffff;
-@define-color fg_color #343b43;
-@define-color base_color #e7ecf0;
-@define-color text_color #343b43;
-@define-color text_color_disabled #88929d;
-@define-color selected_bg_color #acb6c0;
-@define-color selected_fg_color #343b43;
+@define-color fg_color #454c54;
+@define-color base_color #f6f8fa;
+@define-color text_color #454c54;
+@define-color text_color_disabled #818b98;
+@define-color selected_bg_color #d1d9e0;
+@define-color selected_fg_color #454c54;
 @define-color tooltip_bg_color #ffffff;
-@define-color tooltip_fg_color #343b43;
+@define-color tooltip_fg_color #454c54;
