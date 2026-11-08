@@ -1,0 +1,16 @@
+/*
+Base16 Aftertaerm
+Scheme author: Radek Polasek (https://github.com/radekp31), based on Taerminal by cozywigwam
+Template author: Tinted Theming (https://github.com/tinted-theming)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #26282a;
+@define-color fg_color #f0f0f0;
+@define-color base_color #303234;
+@define-color text_color #f0f0f0;
+@define-color text_color_disabled #6f6f6f;
+@define-color selected_bg_color #3c3e41;
+@define-color selected_fg_color #f0f0f0;
+@define-color tooltip_bg_color #26282a;
+@define-color tooltip_fg_color #f0f0f0;
