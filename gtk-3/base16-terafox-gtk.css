@@ -1,0 +1,16 @@
+/*
+Base16 terafox
+Scheme author: EdenEast (https://github.com/EdenEast)
+Template author: Tinted Theming (https://github.com/tinted-theming)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #152528;
+@define-color fg_color #e6eaea;
+@define-color base_color #1d3337;
+@define-color text_color #e6eaea;
+@define-color text_color_disabled #4e5157;
+@define-color selected_bg_color #254147;
+@define-color selected_fg_color #e6eaea;
+@define-color tooltip_bg_color #152528;
+@define-color tooltip_fg_color #e6eaea;

@@ -1,0 +1,16 @@
+/*
+Base16 dayfox
+Scheme author: EdenEast (https://github.com/EdenEast)
+Template author: Tinted Theming (https://github.com/tinted-theming)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #f6f2ee;
+@define-color fg_color #3d2b5a;
+@define-color base_color #dbd1dd;
+@define-color text_color #3d2b5a;
+@define-color text_color_disabled #534c45;
+@define-color selected_bg_color #d3c7bb;
+@define-color selected_fg_color #3d2b5a;
+@define-color tooltip_bg_color #f6f2ee;
+@define-color tooltip_fg_color #3d2b5a;

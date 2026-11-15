@@ -1,0 +1,16 @@
+## Base16 nordfox
+# Scheme author: EdenEast (https://github.com/EdenEast)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#2e3440
+color0:#2e3440
+text_color:#cdcecf
+selected_bg_color:#444c5e
+selected_fg_color:#cdcecf
+tooltip_bg_color:#2e3440
+tooltip_fg_color:#cdcecf
+titlebar_bg_color:#2e3440
+titlebar_fg_color:#cdcecf
+menu_bg_color:#2e3440
+menu_fg_color:#cdcecf
+link_color:#444c5e"
