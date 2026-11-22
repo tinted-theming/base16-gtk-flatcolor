@@ -1,16 +1,16 @@
 ## Base16 Penumbra Light
-# Scheme author: Zachary Weiss (https://github.com/zacharyweiss)
+# Scheme author: Neal McKee (https://github.com/nealmckee/penumbra)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 # In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
-gtk-color-scheme = "bg_color:#fffdfb
-color0:#fffdfb
-text_color:#636363
-selected_bg_color:#f2e6d4
-selected_fg_color:#636363
-tooltip_bg_color:#fffdfb
-tooltip_fg_color:#636363
-titlebar_bg_color:#fffdfb
-titlebar_fg_color:#636363
-menu_bg_color:#fffdfb
-menu_fg_color:#636363
-link_color:#f2e6d4"
+gtk-color-scheme = "bg_color:#efe8dd
+color0:#efe8dd
+text_color:#8b8b8b
+selected_bg_color:#d1ccc5
+selected_fg_color:#8b8b8b
+tooltip_bg_color:#efe8dd
+tooltip_fg_color:#8b8b8b
+titlebar_bg_color:#efe8dd
+titlebar_fg_color:#8b8b8b
+menu_bg_color:#efe8dd
+menu_fg_color:#8b8b8b
+link_color:#d1ccc5"
